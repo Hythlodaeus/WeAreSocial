@@ -90,7 +90,7 @@ DATABASES = {
         'NAME': 'WeAreSocialdb',
         'USER': 'WeAreSocialUser',
         'PASSWORD': 'Malacca1',
-        'HOST': 'localhost',
+        'HOST': '192.168.1.255',
         'PORT': '5432',
     }
 }
