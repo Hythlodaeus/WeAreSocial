@@ -16,7 +16,7 @@ Including another URLconf
 from django.conf.urls import include, url
 from django.contrib import admin
 from accounts.views import register, login, profile, logout
-from django.conf.urls.static import static
+from django.conf.urls.static import static, settings
 import core.views
 
 
